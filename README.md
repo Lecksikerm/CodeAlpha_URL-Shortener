@@ -145,9 +145,12 @@ Use the input box to shorten URLs and click the generated short URL to test redi
 * Deploy backend and frontend to a cloud service.
 
 ---
+## Deployment URL
+
+https://codealpha-url-shortener-gey8.onrender.com
 
 ## Author
 
-* **Your Name**
+* **Kareem Idris**
 * **Email:** [idrisolalekann@gmail.com](mailto:idrisolalekann@gmail.com)
 * **GitHub:** github.com/Lecksikerm
